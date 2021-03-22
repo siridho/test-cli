@@ -1,0 +1,13 @@
+{
+  "name": "test-cli",
+  "version": "1.0.0",
+  "description": "test cli",
+  "bin": {
+    "test-cli": "./test-cli.js"
+  },
+  "author": "sintya ridho pamungkas",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^16.2.0"
+  }
+}
