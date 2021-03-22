@@ -6,6 +6,7 @@
     "test-cli": "./test-cli.js"
   },
   "author": "sintya ridho pamungkas",
+  "preferGlobal": true,
   "license": "ISC",
   "dependencies": {
     "yargs": "^16.2.0"
